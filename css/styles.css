@@ -2,36 +2,38 @@
     background: url("https://wallpaperaccess.com/full/1912567.jpg")
     center no-repeat;
     background-size: cover;
-    height: 400px;
+    height: 600px;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 .bg-jumbotron2{
     background: url("https://images.unsplash.com/photo-1519885277449-12eee5564d68?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cm9hZHRyaXB8ZW58MHx8MHx8&w=1000&q=80")
     bottom no-repeat;
     background-size: cover;
-    height: 400px;
+    height: 600px;
 }
 .bg-jumbotron3{
     background: url("https://media.cntraveler.com/photos/5edfc029b16364ea435ca862/16:9/w_2560%2Cc_limit/Roadtrip-2020-GettyImages-1151192650.jpg")
     center no-repeat;
     background-size: cover;
-    height: 400px;
+    height: 600px;
 }
 .bg-jumbotron4{
     background: url("https://wallpaperaccess.com/full/635117.jpg")
     center no-repeat;
     background-size: cover;
-    height: 400px;
+    height: 600px;
 }
 .bg-jumbotron5{
     background: url("https://wallpapers777.com/wallpapers/big/background_doroga_razmetka_povorot_1217431_pic_image_wallpaper_big_1920x1080.jpg")
     center no-repeat;
     background-size: cover;
-    height: 400px;
+    height: 600px;
 }
 .bg-jumbotron6{
     background-color: #F54746;
     background-size: cover;
-    height: 250px;
+    height: 350px;
 }
 h1{
     font-family: 'Lobster', cursive;

@@ -2,30 +2,46 @@
     background: url("https://wallpaperaccess.com/full/1912567.jpg")
     center no-repeat;
     background-size: cover;
+    height: 400px;
 }
 .bg-jumbotron2{
     background: url("https://images.unsplash.com/photo-1519885277449-12eee5564d68?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cm9hZHRyaXB8ZW58MHx8MHx8&w=1000&q=80")
-    center no-repeat;
+    bottom no-repeat;
     background-size: cover;
+    height: 400px;
 }
 .bg-jumbotron3{
     background: url("https://media.cntraveler.com/photos/5edfc029b16364ea435ca862/16:9/w_2560%2Cc_limit/Roadtrip-2020-GettyImages-1151192650.jpg")
     center no-repeat;
     background-size: cover;
+    height: 400px;
 }
 .bg-jumbotron4{
     background: url("https://wallpaperaccess.com/full/635117.jpg")
     center no-repeat;
     background-size: cover;
+    height: 400px;
 }
 .bg-jumbotron5{
     background: url("https://wallpapers777.com/wallpapers/big/background_doroga_razmetka_povorot_1217431_pic_image_wallpaper_big_1920x1080.jpg")
     center no-repeat;
     background-size: cover;
+    height: 400px;
 }
 .bg-jumbotron6{
-    background: url("https://www.teahub.io/photos/full/10-104204_road-wallpaper-freeway.jpg")
-    center no-repeat;
+    background-color: #F54746;
     background-size: cover;
+    height: 250px;
 }
-    
+h1{
+    font-family: 'Lobster', cursive;
+}
+ion-icon{
+    align-items: center;
+    font-size: 40px;
+    color: #000000;
+    transition: color 0.6s;
+  }
+  ion-icon:hover{
+    color: #d70000;
+  }
